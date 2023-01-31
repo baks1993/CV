@@ -7,3 +7,16 @@ ul li {
 img {
     width: 200px;
 }
+
+body {
+    background-color: #B5D5C5;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: gray;
+    height: 0px;
+    width: 5%;
+}
